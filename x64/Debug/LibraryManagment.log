@@ -1,0 +1,14 @@
+﻿  Main.c
+C:\Users\agata\OneDrive\Dokumenty\LibraryManagment\LibraryManagment\Main.c(123,6): warning C4101: "i": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\agata\OneDrive\Dokumenty\LibraryManagment\LibraryManagment\Main.c(278,12): warning C4477: „printf”: ciąg formatu „%d” wymaga argumentu typu „int”, ale argument 1 ze zmienną liczbą argumentów ma typ „char *”
+C:\Users\agata\OneDrive\Dokumenty\LibraryManagment\LibraryManagment\Main.c(278,12): warning C4313: „printf”: „%d” w ciągu formatu powoduje konflikt z argumentem 1 typu „char *”
+C:\Users\agata\OneDrive\Dokumenty\LibraryManagment\LibraryManagment\Main.c(284,12): warning C4477: „printf”: ciąg formatu „%d” wymaga argumentu typu „int”, ale argument 1 ze zmienną liczbą argumentów ma typ „char *”
+C:\Users\agata\OneDrive\Dokumenty\LibraryManagment\LibraryManagment\Main.c(284,12): warning C4313: „printf”: „%d” w ciągu formatu powoduje konflikt z argumentem 1 typu „char *”
+C:\Users\agata\OneDrive\Dokumenty\LibraryManagment\LibraryManagment\Main.c(337,12): warning C4477: „printf”: ciąg formatu „%d” wymaga argumentu typu „int”, ale argument 1 ze zmienną liczbą argumentów ma typ „char *”
+C:\Users\agata\OneDrive\Dokumenty\LibraryManagment\LibraryManagment\Main.c(337,12): warning C4313: „printf”: „%d” w ciągu formatu powoduje konflikt z argumentem 1 typu „char *”
+C:\Users\agata\OneDrive\Dokumenty\LibraryManagment\LibraryManagment\Main.c(392,10): warning C4477: „printf”: ciąg formatu „%d” wymaga argumentu typu „int”, ale argument 1 ze zmienną liczbą argumentów ma typ „char *”
+C:\Users\agata\OneDrive\Dokumenty\LibraryManagment\LibraryManagment\Main.c(392,10): warning C4313: „printf”: „%d” w ciągu formatu powoduje konflikt z argumentem 1 typu „char *”
+C:\Users\agata\OneDrive\Dokumenty\LibraryManagment\LibraryManagment\Main.c(472,8): warning C4477: „scanf”: ciąg formatu „%s” wymaga argumentu typu „char *”, ale argument 1 ze zmienną liczbą argumentów ma typ „char **”
+C:\Users\agata\OneDrive\Dokumenty\LibraryManagment\LibraryManagment\Main.c(481,8): warning C4477: „scanf”: ciąg formatu „%d” wymaga argumentu typu „int *”, ale argument 1 ze zmienną liczbą argumentów ma typ „char **”
+MSVCRTD.lib(exe_main.obj) : error LNK2019: nierozpoznany symbol zewnętrzny main przywołany w funkcji "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\agata\OneDrive\Dokumenty\LibraryManagment\x64\Debug\LibraryManagment.exe : fatal error LNK1120: liczba nierozpoznanych elementów zewnętrznych: 1
